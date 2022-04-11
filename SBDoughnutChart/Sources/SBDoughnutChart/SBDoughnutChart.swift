@@ -1,10 +1,3 @@
-//
-//  SBDoughnutChart.swift
-//  SongNodeDemo
-//
-//  Created by Shubham Bairagi on 04/02/22.
-//  Copyright © 2022 Shubham Bairagi. All rights reserved.
-//
 
 import UIKit
 import QuartzCore
